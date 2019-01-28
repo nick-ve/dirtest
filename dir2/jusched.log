@@ -1,0 +1,500 @@
+
+Fri Nov 27 13:37:39 2009
+:: **************** Running jusched ****************
+
+Fri Nov 27 13:37:39 2009
+:: JavaUpdate NextSchedTime=Mon Dec 14 07:05:00 2009
+JavaFXUpdate NextSchedTime=Mon Nov 30 18:26:00 2009
+lastSchedTime=Sat Nov 14 07:05:00 2009
+nextSchedTime=Mon Dec 14 07:05:00 2009
+sleeptime (sec=12451, hours=3)
+actual sleep time=12451417 msecs (3:27:31) 
+
+Tue Jan 05 20:15:53 2010
+:: **************** Running jusched ****************
+
+Tue Jan 05 20:15:53 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:24:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=7822, hours=2)
+actual sleep time=7822002 msecs (2:10:22) for JavaFX
+
+Tue Jan 05 22:26:49 2010
+:: Timeout occured.  Run JavaFX update now.
+
+Tue Jan 05 22:26:49 2010
+:: Started JavaFX Update process Command:C:\Program Files\Java\jre6\bin\javaws.exe  -silent -import -reverse -javafxau -J-Dkernel.download.dialog=false "http://dl.javafx.com/javafx-cache.jnlp" 
+Return:1 Error:0
+
+Tue Jan 05 22:26:49 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:24:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+lastSchedTime=Mon Dec 14 07:24:00 2009
+nextSchedTime=Thu Jan 14 07:24:00 2010
+sleeptime (sec=10660, hours=2)
+actual sleep time=10660941 msecs (2:57:40) 
+
+Wed Jan 06 21:22:25 2010
+:: **************** Running jusched ****************
+
+Wed Jan 06 21:22:25 2010
+:: http://javadl-esd.sun.com/update/1.6.0/au-descriptor-1.6.0_17-b80.xml
+Wed Jan 06 21:22:25 2010
+:: Saving Update Descriptor XML Data
+
+Wed Jan 06 21:22:26 2010
+:: Started UpdateChecker process Successfully:C:\Program Files\Java\jre6\bin\jucheck.exe
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421432, hours=117)
+actual sleep time=421432917 msecs (117:03:52) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421420, hours=117)
+actual sleep time=421420134 msecs (117:03:40) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421424, hours=117)
+actual sleep time=421424568 msecs (117:03:44) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421425, hours=117)
+actual sleep time=421425314 msecs (117:03:45) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421426, hours=117)
+actual sleep time=421426451 msecs (117:03:46) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421440, hours=117)
+actual sleep time=421440616 msecs (117:04:00) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421415, hours=117)
+actual sleep time=421415717 msecs (117:03:35) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: http://javadl-esd.sun.com/update/1.6.0/au-descriptor-1.6.0_17-b80.xml
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421421, hours=117)
+actual sleep time=421421497 msecs (117:03:41) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: 
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421429, hours=117)
+actual sleep time=421429726 msecs (117:03:49) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421418, hours=117)
+actual sleep time=421418761 msecs (117:03:38) for JavaFX
+
+Wed Jan 06 21:22:26 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:26 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421437, hours=117)
+actual sleep time=421437781 msecs (117:03:57) for JavaFX
+
+Wed Jan 06 21:22:27 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:27 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421431, hours=117)
+actual sleep time=421431759 msecs (117:03:51) for JavaFX
+
+Wed Jan 06 21:22:28 2010
+:: InstallStatus:ret=200 visid=51c0b4b4-4f10310ac method=jau state=ud ver=1.6.0_16,1.6.0_17-b80
+<?xml version="1.0" encoding="UTF-8"?>
+<status>SUCCESS</status>
+
+Wed Jan 06 21:22:28 2010
+:: Registry is changed.
+
+Wed Jan 06 21:22:28 2010
+:: JavaUpdate NextSchedTime=Thu Jan 14 07:55:00 2010
+JavaFXUpdate NextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: lastSchedTime=Mon Jan 04 18:26:00 2010
+JavaFX: nextSchedTime=Mon Jan 11 18:26:00 2010
+JavaFX: sleeptime (sec=421431, hours=117)
+actual sleep time=421431801 msecs (117:03:51) for JavaFX
+
+Wed Jan 06 22:09:39 2010
+:: Received shutdown signal
+
+Thu Jan 07 00:02:56 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 10:00:35 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 17:10:50 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 17:30:58 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 17:54:00 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 18:06:23 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 20:44:24 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 22:03:59 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 22:20:44 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 22:35:41 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 22:43:59 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 22:53:12 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 23:07:13 2010
+:: **************** Running jusched ****************
+
+Thu Jan 07 23:40:47 2010
+:: **************** Running jusched ****************
+
+Fri Jan 08 09:44:22 2010
+:: **************** Running jusched ****************
+
+Sat Jan 09 15:47:55 2010
+:: **************** Running jusched ****************
+
+Sun Jan 10 13:40:48 2010
+:: **************** Running jusched ****************
+
+Sun Jan 10 20:53:54 2010
+:: **************** Running jusched ****************
+
+Mon Jan 11 09:39:13 2010
+:: **************** Running jusched ****************
+
+Tue Jan 12 09:26:21 2010
+:: **************** Running jusched ****************
+
+Tue Jan 12 14:08:24 2010
+:: **************** Running jusched ****************
+
+Wed Jan 13 09:40:10 2010
+:: **************** Running jusched ****************
+
+Thu Jan 14 09:24:30 2010
+:: **************** Running jusched ****************
+
+Mon Jan 18 12:43:44 2010
+:: **************** Running jusched ****************
+
+Tue Jan 19 09:24:21 2010
+:: **************** Running jusched ****************
+
+Wed Jan 20 09:29:23 2010
+:: **************** Running jusched ****************
+
+Mon Jan 25 09:22:34 2010
+:: **************** Running jusched ****************
+
+Tue Jan 26 09:20:25 2010
+:: **************** Running jusched ****************
+
+Thu Jan 28 09:28:51 2010
+:: **************** Running jusched ****************
+
+Mon Feb 01 11:30:47 2010
+:: **************** Running jusched ****************
+
+Tue Feb 02 09:24:35 2010
+:: **************** Running jusched ****************
+
+Wed Feb 03 09:38:22 2010
+:: **************** Running jusched ****************
+
+Thu Feb 04 09:26:11 2010
+:: **************** Running jusched ****************
+
+Fri Feb 05 09:25:39 2010
+:: **************** Running jusched ****************
+
+Mon Feb 08 09:17:54 2010
+:: **************** Running jusched ****************
+
+Tue Feb 09 09:39:44 2010
+:: **************** Running jusched ****************
+
+Thu Feb 11 09:28:36 2010
+:: **************** Running jusched ****************
+
+Mon Feb 15 11:32:45 2010
+:: **************** Running jusched ****************
+
+Tue Feb 16 09:20:11 2010
+:: **************** Running jusched ****************
+
+Wed Feb 17 09:23:17 2010
+:: **************** Running jusched ****************
+
+Thu Feb 18 09:47:00 2010
+:: **************** Running jusched ****************
+
+Fri Feb 19 09:37:10 2010
+:: **************** Running jusched ****************
+
+Fri Feb 19 13:30:58 2010
+:: **************** Running jusched ****************
+
+Mon Feb 22 09:33:43 2010
+:: **************** Running jusched ****************
+
+Tue Feb 23 09:32:54 2010
+:: **************** Running jusched ****************
+
+Wed Feb 24 09:31:07 2010
+:: **************** Running jusched ****************
+
+Thu Feb 25 09:38:24 2010
+:: **************** Running jusched ****************
+
+Mon Mar 01 13:21:46 2010
+:: **************** Running jusched ****************
+
+Tue Mar 02 09:20:54 2010
+:: **************** Running jusched ****************
+
+Tue Mar 02 13:56:58 2010
+:: **************** Running jusched ****************
+
+Wed Mar 03 09:26:05 2010
+:: **************** Running jusched ****************
+
+Thu Mar 04 09:39:41 2010
+:: **************** Running jusched ****************
+
+Mon Mar 08 11:32:29 2010
+:: **************** Running jusched ****************
+
+Tue Mar 09 09:28:10 2010
+:: **************** Running jusched ****************
+
+Wed Mar 10 09:32:10 2010
+:: **************** Running jusched ****************
+
+Thu Mar 11 09:22:44 2010
+:: **************** Running jusched ****************
+
+Mon Mar 15 13:12:04 2010
+:: **************** Running jusched ****************
+
+Tue Mar 16 09:36:50 2010
+:: **************** Running jusched ****************
+
+Wed Mar 17 09:32:31 2010
+:: **************** Running jusched ****************
+
+Thu Mar 18 09:27:14 2010
+:: **************** Running jusched ****************
+
+Fri Mar 19 09:23:30 2010
+:: **************** Running jusched ****************
+
+Mon Mar 22 11:03:26 2010
+:: **************** Running jusched ****************
+
+Tue Mar 23 09:18:27 2010
+:: **************** Running jusched ****************
+
+Wed Mar 24 09:24:15 2010
+:: **************** Running jusched ****************
+
+Thu Mar 25 09:47:55 2010
+:: **************** Running jusched ****************
+
+Mon Mar 29 11:48:23 2010
+:: **************** Running jusched ****************
+
+Tue Mar 30 09:46:07 2010
+:: **************** Running jusched ****************
+
+Wed Mar 31 09:52:28 2010
+:: **************** Running jusched ****************
+
+Thu Apr 01 09:23:16 2010
+:: **************** Running jusched ****************
+
+Tue Apr 06 09:10:35 2010
+:: **************** Running jusched ****************
+
+Wed Apr 07 09:11:03 2010
+:: **************** Running jusched ****************
+
+Thu Apr 08 09:11:44 2010
+:: **************** Running jusched ****************
+
+Mon Apr 12 11:49:28 2010
+:: **************** Running jusched ****************
+
+Tue Apr 13 09:11:04 2010
+:: **************** Running jusched ****************
+
+Thu Apr 15 10:03:14 2010
+:: **************** Running jusched ****************
+
+Mon Apr 19 11:35:54 2010
+:: **************** Running jusched ****************
+
+Tue Apr 20 09:21:53 2010
+:: **************** Running jusched ****************
+
+Wed Apr 21 09:30:59 2010
+:: **************** Running jusched ****************
+
+Thu Apr 22 09:29:16 2010
+:: **************** Running jusched ****************
+
+Mon Apr 26 11:31:24 2010
+:: **************** Running jusched ****************
+
+Tue Apr 27 09:31:05 2010
+:: **************** Running jusched ****************
+
+Wed Apr 28 09:36:52 2010
+:: **************** Running jusched ****************
+
+Thu Apr 29 09:46:27 2010
+:: **************** Running jusched ****************
+
+Tue May 11 13:27:33 2010
+:: **************** Running jusched ****************
+
+Wed May 12 09:29:06 2010
+:: **************** Running jusched ****************
+
+Wed May 12 11:08:05 2010
+:: **************** Running jusched ****************
+
+Fri May 14 09:17:01 2010
+:: **************** Running jusched ****************
+
+Mon May 17 09:21:01 2010
+:: **************** Running jusched ****************
+
+Tue May 18 09:39:38 2010
+:: **************** Running jusched ****************
+
+Tue May 18 13:24:51 2010
+:: **************** Running jusched ****************
+
+Wed May 19 09:19:28 2010
+:: **************** Running jusched ****************
+
+Thu May 20 09:22:07 2010
+:: **************** Running jusched ****************
+
+Tue May 25 17:14:29 2010
+:: **************** Running jusched ****************
+
+Wed May 26 09:38:30 2010
+:: **************** Running jusched ****************
+
+Thu May 27 09:31:41 2010
+:: **************** Running jusched ****************
+
+Mon May 31 11:38:13 2010
+:: **************** Running jusched ****************
+
+Tue Jun 01 09:41:42 2010
+:: **************** Running jusched ****************
+
+Wed Jun 02 09:30:31 2010
+:: **************** Running jusched ****************
+
+Thu Jun 03 09:31:05 2010
+:: **************** Running jusched ****************
+
+Fri Jun 04 09:19:34 2010
+:: **************** Running jusched ****************
